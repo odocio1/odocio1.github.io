@@ -16,19 +16,19 @@ header {
     align-items: center;
 }
 
-li a {background-color: #ffffff;
-   
-    color: blue;
-    text-decoration: underline:
+li a { 
+    text-decoration: none;
+    color: black;
+    background-color: #DFDFDF;
     font-weight: bold;
     border-width: 4px;
     border-style: solid;
-    border-top-color: #DFDFDF;
+    border-top-color: #DFDFDF;  
     border-right-color: #666;
     border-bottom-color: #333;
     border-left-color: #858585;  
 
-    color: "Serviço" white;}
+}
 
 a:link {
     ;
